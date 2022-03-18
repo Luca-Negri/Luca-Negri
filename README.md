@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi, I'm Luca 👋
+***
+I'm a phisics student 👨‍🎓, currently tryng to get a master degree in Physics of Data @ 🏛 UniPD
+
+- 💾 Aspiring Data scientist/ Data analyst
+- 🔨 Worked on different machine learning/deep learning [projects](https://github.com/Luca-Negri/3BodyProblemwithDeepNN) 
+- 👨‍💻 Mainly done projects in Python, but have experiencies in languages like
+  - R
+  - MATLAB
+  - FORTRAN
+  - VHDL
+- 🚀 Love everything [astrphysics](https://github.com/Luca-Negri/Gravitational-Waves-Inference)
+
+
+
 
 <!--
 **Luca-Negri/Luca-Negri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
