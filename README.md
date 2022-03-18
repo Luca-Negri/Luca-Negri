@@ -1,4 +1,6 @@
 ### Hi, I'm Luca 👋
+
+
 ***
 I'm a phisics student 👨‍🎓, currently tryng to get a master degree in Physics of Data @ 🏛 UniPD
 
@@ -11,6 +13,7 @@ I'm a phisics student 👨‍🎓, currently tryng to get a master degree in Phy
   - VHDL
 - 🚀 Love everything [astrphysics](https://github.com/Luca-Negri/Gravitational-Waves-Inference)
 
+[![Gmail](https://img.shields.io/static/v1?style=flat-square&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:luca.negri@studenti.unipd.it)
 
 
 
